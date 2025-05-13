@@ -1,6 +1,4 @@
-Sure! Here's a detailed yet concise `README.md` file for your **Smart Home Control System** project, covering all three components: ESP32 firmware, Flask server, and Flet application.
 
----
 
 # 🏠 Smart Home Control System
 
